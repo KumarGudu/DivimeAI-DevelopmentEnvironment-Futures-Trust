@@ -238,7 +238,9 @@
     height: 100%;
     opacity: 1;
 }
-
+.about-us {
+    padding-top: 50px;
+}
 
 /*** Service ***/
 .service-item {
